@@ -1,4 +1,4 @@
-#Anotações dos estudos na DIO
+#Meu progresso e anotações dos estudos na DIO
 
 	20/01/2022	Aprendi sobre lógica de programação;
 	20/01/2022	Aprendi umpouco sobre o Flowgorithm;
